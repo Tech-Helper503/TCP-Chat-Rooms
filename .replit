@@ -1,0 +1,2 @@
+lang="python"
+run="python server.py && python main.py"
